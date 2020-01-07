@@ -1,2 +1,2 @@
 # moneyapp-IOS
-<img src="preview1.png" width="30%">
+<img src="preview1.PNG" width="30%">
