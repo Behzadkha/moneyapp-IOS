@@ -1,2 +1,2 @@
 # moneyapp-IOS
-<img scr='./preview1.PNG'>
+<img scr="preview1.PNG">
